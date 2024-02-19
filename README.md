@@ -7,18 +7,19 @@
 |            [노균호](https://github.com/UpstageAILab)             |            [남영진](https://github.com/UpstageAILab)             |            [김윤겸](https://github.com/UpstageAILab)             |            [이재민](https://github.com/UpstageAILab)             |            [윤수인](https://github.com/UpstageAILab)             |
 |                            팀장, Modeling                             |                            Modeling                           |                         Modeling, CV검증                        |                            Modeling                          |                            Modeling,  Augmentation                  |
 
-## 0. Overview
-### Environment
-- _Write Development environment_
-
-### Requirements
-- _Write Requirements_
 
 ## 1. Competiton Info
 
-### Overview
+### Document type classification : 문서 타입 분류
 
-- _Write competition information_
+
+- 대회 개요
+제공 데이터 활용, 주어진 문서 이미지를 입력 받아 17개의 클래스 중 정답을 예측
+주어진 문서 이미지를 입력 받아 17개의 클래스 중 정답을 예측
+- 평가지표 :  Macro F1
+- 제출물
+1570장의 학습 이미지를 통해 3140장의 평가 이미지를 예측(CSV파일)
+
 
 ### Timeline
 

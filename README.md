@@ -4,8 +4,8 @@
 
 | ![김윤겸](https://avatars.githubusercontent.com/u/156163982?v=4) | ![남영진](https://avatars.githubusercontent.com/u/156163982?v=4) | ![노균호](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이재민](https://avatars.githubusercontent.com/u/156163982?v=4) | ![윤수인](https://avatars.githubusercontent.com/u/156163982?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [김윤겸](https://github.com/UpstageAILab)             |            [남영진](https://github.com/UpstageAILab)             |            [노균호](https://github.com/UpstageAILab)             |            [이재민](https://github.com/UpstageAILab)             |            [윤수인](https://github.com/UpstageAILab)             |
-|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
+|            [노균호](https://github.com/UpstageAILab)             |            [남영진](https://github.com/UpstageAILab)             |            [김윤겸](https://github.com/UpstageAILab)             |            [이재민](https://github.com/UpstageAILab)             |            [윤수인](https://github.com/UpstageAILab)             |
+|                            팀장, Modeling                             |                            Modeling                           |                         Modeling, CV검증                        |                            Modeling                          |                            Modeling,  Augmentation                  |
 
 ## 0. Overview
 ### Environment

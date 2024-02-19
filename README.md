@@ -1,5 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/3DbKuh4a)
-# Title (Please modify the title)
+# Computer Vision 문서 타입 분류 대회
+
 ## Team
 
 | ![김윤겸](https://avatars.githubusercontent.com/u/156163982?v=4) | ![남영진](https://avatars.githubusercontent.com/u/156163982?v=4) | ![노균호](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이재민](https://avatars.githubusercontent.com/u/156163982?v=4) | ![윤수인](https://avatars.githubusercontent.com/u/156163982?v=4) |

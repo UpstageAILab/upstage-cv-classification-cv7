@@ -87,7 +87,7 @@
 
 ### Presentation
 
-- [_발표 Presentation file_]([https://docs.google.com/presentation/d/1OYKb5oHg4sF1zsmD0uk_fSvYPxf9Soo6icxFd6eUEHk/edit#slide=id.g2b368e284d4_1_75])
+- [_발표 Presentation file_](https://docs.google.com/presentation/d/1OYKb5oHg4sF1zsmD0uk_fSvYPxf9Soo6icxFd6eUEHk/edit#slide=id.g2b368e284d4_1_75)
 
 ## etc
 
